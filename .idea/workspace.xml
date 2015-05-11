@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fcca970-dcf5-496b-95ec-4c8cb21c90aa" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\AlexanderN\Documents\GitHub\AlgFourEd\Build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\AlexanderN\Documents\GitHub\AlgFourEd\Build.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\AlexanderN\Documents\GitHub\AlgFourEd\algfoured.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\AlexanderN\Documents\GitHub\AlgFourEd\algfoured.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8fcca970-dcf5-496b-95ec-4c8cb21c90aa" name="Default" comment="" />
     <ignored path="AlgFourEd.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -404,12 +398,12 @@
       <option name="number" value="Default" />
       <updated>1431142829495</updated>
       <workItem from="1431142834491" duration="345000" />
-      <workItem from="1431315504447" duration="2282000" />
+      <workItem from="1431315504447" duration="2325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2627000" />
+    <option name="totallyTimeSpent" value="2670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
