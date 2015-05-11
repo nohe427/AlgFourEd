@@ -2,11 +2,11 @@
 <project name="algfoured" default="all">
   
   
-  <property file="Build.properties"/>
+  <property file="build.properties"/>
   <!-- Uncomment the following property if no tests compilation is needed -->
-  
+  <!-- 
   <property name="skip.tests" value="true"/>
-
+   -->
   
   <!-- Compiler options -->
   
